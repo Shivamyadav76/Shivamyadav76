@@ -1,8 +1,8 @@
 ### Hi there, I'm Shivam Yadav 👋 
 
-👨‍💻 **MERN Stack & Full Stack Developer** | B.Tech CSE Graduate (7 CGPA)
+👨‍💻 **MERN Stack & Full Stack Developer** | B.Tech CSE Graduate (7 CGPA)[cite: 3]
 
-I am a passionate Full Stack Developer specializing in building robust, scalable, and responsive web applications using the MERN stack. Currently focused on building production-ready applications and seeking full-stack developer opportunities.
+I am a passionate Full Stack Developer specializing in building robust, scalable, and responsive web applications using modern technologies. Currently focused on building production-ready applications and seeking full-stack developer opportunities.
 
 ---
 
@@ -17,13 +17,21 @@ I am a passionate Full Stack Developer specializing in building robust, scalable
 
 ### 🚀 Featured Projects
 
-* **[ByteCart](https://github.com/Shivamyadav76)** (Full-Stack E-Commerce Web App)
-  - Developed a fully functional e-commerce platform featuring a product catalog, advanced search, shopping cart management, user authentication, and order history.
-  - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+* **[AI-Powered Online Platform](https://github.com/Shivamyadav76)** (AI-Integrated Web App)
+  - Developed an interactive online platform integrated with advanced AI capabilities to deliver smart user assistance and dynamic content processing.
+  - **Tech Stack:** Full Stack Web Technologies, AI Integration, React.js, Node.js
 
-* **[Bareilly Transport](https://github.com/Shivamyadav76)** (Transport Management Project)
-  - Built a comprehensive transport and logistics management application tailored for seamless tracking and operational efficiency.
-  - **Tech Stack:** Full Stack Web Technologies
+* **[ByteCart](https://github.com/Shivamyadav76)** (Full-Stack E-Commerce Web App)[cite: 3, 4]
+  - Built a full-stack e-commerce application featuring product categories, user cart management, search functionality, and order history[cite: 3, 4].
+  - **Tech Stack:** React.js, Node.js, Express.js, MongoDB[cite: 3, 4], Tailwind CSS[cite: 4]
+
+* **[Bareilly Transport](https://github.com/Shivamyadav76)** (Transport Management Project)[cite: 3]
+  - Developed a comprehensive transport and logistics management application tailored for seamless tracking and operational efficiency[cite: 3].
+  - **Tech Stack:** Full Stack Web Technologies[cite: 3]
+
+* **[Tic Tac Toe Game](https://github.com/Shivamyadav76)** (Interactive Web Game)
+  - Created an interactive and responsive Tic Tac Toe web game utilizing modern JavaScript logic, DOM manipulation, and clean CSS styling.
+  - **Tech Stack:** HTML5, CSS3, JavaScript
 
 ---
 
